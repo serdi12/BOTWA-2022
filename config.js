@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6289516947204'] 
+global.owner = ['6281364150144'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerIyan !Jangan chat owner kl gk perlu!'
-global.numberowner = '6289516947204'
+global.nameowner = 'OwnerRyzuu!Jangan chat owner kl gk perlu!'
+global.numberowner = '6281364150144'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://saweria.co/IyanMd'
-global.dana = '089516947204'
-global.pulsa = '089516947204'
+global.dana = '091364150144'
+global.pulsa = '081364150144'
 global.gopay = '089516947204'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'IYAN'
+global.namebot = 'Ryzuu'
 global.gc = 'https://saweria.co/IyanMd'
 global.web = 'https://saweria.co/IyanMd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/ab93ce0bc86282c993ad2.png' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Iyan'
+global.wm = '© Ryzuu'
 global.watermark = wm
-global.wm2 = '© 2022-Iyan'
-global.wm3 = '© Iyan'
+global.wm2 = '© 2022-Ryzuu'
+global.wm3 = '© Ryzuu'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nBy Iyan'
+global.author = 'Bot WhatsApp\nBy Ryzuu'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
