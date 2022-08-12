@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nBy Ryzuu'
+global.author = 'Bot WhatsApp\nBy AIR4'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
