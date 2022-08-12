@@ -6,10 +6,10 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'Owner𝚒𝚢𝚊𝚗!Jangan chat owner kl gk perlu!'
 global.numberowner = '6289516947204'
-global.instagram = 'https://instagram.com/prm2.0'
+global.instagram = 'https://saweria.co/IyanMd'
 global.github = 'https://saweria.co/IyanMd'
 global.dana = '089516947204'
-global.pulsa = '081364150144'
+global.pulsa = '089516947204'
 global.gopay = '089516947204'
 
 //=============『 Info Bot 』=================//
